@@ -1,0 +1,42 @@
+
+It took 146496 interations
+
+It took 175232 interations
+
+It took 141242 interations
+
+It took 144056 interations
+
+It took 139287 interations
+
+It took 134246 interations
+
+It took 133631 interations
+
+It took 133967 interations
+
+It took 165494 interations
+
+It took 189227 interations
+
+It took 133682 interations
+
+It took 154119 interations
+
+It took 134144 interations
+
+It took 133622 interations
+
+It took 133637 interations
+
+It took 133994 interations
+
+It took 133652 interations
+
+It took 137444 interations
+
+It took 153917 interations
+
+It took 142131 interations
+
+
